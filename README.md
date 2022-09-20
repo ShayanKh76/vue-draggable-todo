@@ -1,3 +1,7 @@
+this project has vue3 and vuetify3.
+I've used vue-draggable-next as dragg package to dragg and drop todo items into different list.
+
+
 # vue-draggable-todo2
 
 ## Project setup
